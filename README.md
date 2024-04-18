@@ -23,12 +23,6 @@ I'm a Junior Developer learning  continiously and trying to expand my knowledge.
 ---
 
 <p align="center">
-  <a href="https://github.com/sleepy-lab">
-    <img src="https://github-readme-stats.vercel.app/api?username=sleepy-lab&show_icons=true&theme=dark" alt="Your GitHub Stats" />
-  </a>
-</p>
-
-<p align="center">
   <a href="https://github.com/your-github-username">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sleepy-lab&layout=compact&theme=dark" alt="Most Used Languages" />
   </a>
